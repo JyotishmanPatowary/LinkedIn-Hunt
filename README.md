@@ -10,8 +10,8 @@ A Python-based GUI application that scrapes job listings from LinkedIn. Users ca
 
 # Usage
 * Job Title: Enter the job title you are searching for (e.g., "Data Scientist", "Software Engineer").
-* Location: Enter the location where you'd like to search for jobs (e.g., "New York", "San Francisco").
-* Pages to Scrape: Enter the number of pages you want to scrape (each page contains 25 job listings).
+* Location: Enter the location where you'd like to search for jobs (e.g., "Bengaluru", "Pune").
+* Pages to Scrape: Enter the number of pages you want to scrape.
 * Start Scraping: Click the "Start Scraping" button to begin the job search.
 
 # Disclaimer
